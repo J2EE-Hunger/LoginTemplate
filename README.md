@@ -18,7 +18,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/login-template.git
+git clone https://github.com/J2EE-Hunger/LoginTemplate.git
 Open the project in your preferred Java IDE.
 
 Configure the MySQL database connection in the config.properties file:
